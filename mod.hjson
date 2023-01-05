@@ -8,7 +8,7 @@ I made this mod because I missed the Serpulo-style bridges on Erekir, and my wif
 
 The intention is that nothing should be game-breaking, but just be minor little quality-of-life additions.
 '''
-version: "0.3"
+version: "0.31"
 minGameVersion: "136"
 dependencies: [ ]
 hidden: false
