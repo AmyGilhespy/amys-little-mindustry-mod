@@ -1,0 +1,20 @@
+type: Junction
+name: "[Amy] Junction"
+description: '''
+A simple item junction.
+'''
+category: distribution
+health: 30
+speed: 2.75f
+capacity: 1
+itemCapacity: 1
+floating: true
+// TODO: Make it so you can remove the inventory by clicking on it.
+// configurable: true
+allowConfigInventory: true
+logicConfigurable: true
+
+requirements: [
+	"beryllium/2"
+]
+research: duct-router

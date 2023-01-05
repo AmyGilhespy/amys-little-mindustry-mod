@@ -1,0 +1,23 @@
+type: ItemBridge
+name: "[Amy] Item Bridge"
+description: '''
+A Serpulo-style item bridge.
+'''
+category: distribution
+health: 90
+fadeIn: false
+moveArrows: false
+range: 4
+transportTime: 4f
+arrowSpacing: 6f
+itemCapacity: 4
+pulse: true
+floating: true
+configurable: true
+allowConfigInventory: true
+logicConfigurable: true
+
+requirements: [
+	beryllium/20
+]
+research: duct-bridge

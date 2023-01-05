@@ -1,0 +1,21 @@
+type: ItemIncinerator
+name: "[Amy] Self-Sustaining Incinerator"
+description: '''
+An item incinerator that is fairly expensive to make but free to use.
+'''
+category: crafting
+health: 140
+// You MUST use hasLiquids: true with ItemIncinerator or it crashes...
+hasLiquids: true
+// configurable: true
+logicConfigurable: true
+// TODO: make it configurable where it only accepts the selected item
+/* configurations: {
+	Item: true
+} */
+
+requirements: [
+	graphite/300
+	silicon/300
+]
+research: slag-incinerator

@@ -1,0 +1,14 @@
+name: "amys-little-mod"
+displayName: "Amy's Little Mod"
+author: Amy
+description: '''
+A little mod with a few minor additions.
+
+I made this mod because I missed the Serpulo-style bridges on Erekir, and my wife missed the item junctions.  It also includes an alternate incinerator that is more expensive to make but free to use, as we both would have preferred the incinerator have no upkeep cost once you build it.
+
+The intention is that nothing should be game-breaking, but just be minor little quality-of-life additions.
+'''
+version: "0.3"
+minGameVersion: "136"
+dependencies: [ ]
+hidden: false
